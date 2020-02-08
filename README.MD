@@ -11,7 +11,7 @@ In this project, using S3, CloudFront, and IAM.  The files included are:   index
 <br>
 
 ### Credits
-Udacity Cloud DevOps Nanodegree Program
+Udacity Cloud DevOps Nanodegree Program<br>
 Author : Muhammad Omar<br>
 Email : Omaroovee@gmail.com<br>
 website URL: https://duy2bkqudoywa.cloudfront.net

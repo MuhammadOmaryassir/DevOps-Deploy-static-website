@@ -1,6 +1,6 @@
 ![][header]
 
-[header]: https://github.com/Omaroovee/Deploy-high-availability-web-app-using-CloudFormation/blob/Read-Me/header.jpeg "Header"
+[header]: https://github.com/Omaroovee/DevOps-Deploy-static-website/blob/master/s3-static-hosting.png "Header"
 
 <br>
 
@@ -12,8 +12,8 @@ In this project, using S3, CloudFront, and IAM.  The files included are:   index
 
 ### Credits
 Udacity Cloud DevOps Nanodegree Program
-Author : Muhammad Omar
-Email : Omaroovee@gmail.com
+Author : Muhammad Omar<br>
+Email : Omaroovee@gmail.com<br>
 website URL: https://duy2bkqudoywa.cloudfront.net
 
 
